@@ -40,12 +40,12 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # see _data/map-config.csv for field display options
 latitude: 9.74308990125301 
 longitude: 125.68187568305694 
-zoom-level: 5 # zoom level for map 
-map-base: Esri_WorldStreetMap  
+zoom-level: 10 
+map-base: Esri_NatGeoWorldMap
 map-search: true 
-map-search-fuzziness: 0.35 
+map-search-fuzziness: 0.50 
 map-cluster: true 
-map-cluster-radius: 25 
+map-cluster-radius: 30 
 
 ##########
 # TIMELINE PAGE
