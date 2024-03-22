@@ -50,8 +50,8 @@ map-cluster-radius: 30
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 5 # set increments when auto gen nav years
+year-navigation: 2015;2018;2021;2022;2024
+year-nav-increment: 5 
 
 ##########
 # DATA 
